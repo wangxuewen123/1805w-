@@ -54,7 +54,7 @@ class Menu():
             if xuan == 1:
                 name = input("请输入姓名： ")
                 age = input("请输入年龄： ")
-                num = input("请输入学好： ")
+                num = input("请输入学号： ")
                 dic = {"name":name,
                        "age":age,
                        "num":num}
